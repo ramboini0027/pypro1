@@ -1,2 +1,3 @@
-n=int(input())
-print(n+5)
+l=[1,2,3,4]
+l1=[l::-1]
+print(l1)
